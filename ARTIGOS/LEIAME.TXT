@@ -1,0 +1,5 @@
+##
+# Artigos e Textos Relavantes em Processamento de Imagens
+
+1 -  Feature Extraction
+2 - Compactação
