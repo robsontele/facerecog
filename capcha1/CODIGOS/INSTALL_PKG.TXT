@@ -1,0 +1,5 @@
+$ cd MyProject
+$ python2 -m virtualenv env
+$ . env/bin/activate
+$ pip install -U pip setuptools  # get the latest versions
+$ pip install flask  # install other packages
